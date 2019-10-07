@@ -37,4 +37,6 @@ Javadoc is available at https://stellar.github.io/java-stellar-sdk
 For information on how to contribute, please refer to our [contribution guide](https://github.com/stellar/java-stellar-sdk/blob/master/CONTRIBUTING.md).
 
 ## License
-java-stellar-sdk is licensed under an Apache-2.0 license. See the [LICENSE](https://github.com/stellar/java-stellar-sdk/blob/master/LICENSE) file for details.
+java-stellar-sdk is licensed under an Apache-2.0 license. See the [LICENSE](https://github.com/stellar/java-stellar-sdk/blob/master/LICENSE) file for detail
+https://github.com/stellar/stellar-core.git
+[![](https://jitpack.io/v/KaycoinsInc/java-stellar-sdk.svg)](https://jitpack.io/#KaycoinsInc/java-stellar-sdk)
